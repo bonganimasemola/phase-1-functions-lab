@@ -13,8 +13,7 @@ in New York City. It has also received a few requests.
 
 First, Scuber's executives want to ensure that Scuber's headquarters is near its
 customers. They would like you to write a function, `distanceFromHqInBlocks`,
-that takes in a pickup location for a passenger, and returns the _number of
-blocks_ from Scuber headquarters on 42nd Street. For example, if the pickup
+that takes in a pickup location for a passenger, and returns the _number of blocks_ from Scuber headquarters on 42nd Street. For example, if the pickup
 location is `50` (i.e., 50th Street), the return value should be `8`.
 
 The `distanceFromHqInBlocks` function's return value can then be used for
