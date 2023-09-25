@@ -34,16 +34,16 @@ function distanceTravelledInFeet(e1, e2) {
   }
   return feet
 
-  if (e2 - e1 === 5 ){
-      return 1320;
-  }
-  if (e2 - e1 === 10) {
-    return 2640;
-  }
-  if (e2 - e1 < 5) {
-    return 1584
-  }
-}
+  //if (e2 - e1 === 5 ){
+   //   return 1320;
+ // }
+  //if (e2 - e1 === 10) {
+  //  return 2640;
+ // }
+ // if (e2 - e1 < 5) {
+  //  return 1584
+ // }
+//}
 
 
 
